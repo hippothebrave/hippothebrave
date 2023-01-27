@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey everyone! I'm hippothebrave (she/her), a senior at Barnard College studying computer science and history. I'm new to GitHub, but excited to get started!
+Hey everyone! I'm hippothebrave (she/her), but just call me Hippo. I'm a senior at Barnard College studying computer science and history. I'm new to GitHub, but excited to get started!
 
 Languages known: Python, Java, C, SQL, Javascript, HTML/CSS

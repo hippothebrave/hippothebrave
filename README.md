@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCrOEuSxOuBwRHzAz7oNs3zw?style=social)
+![Coolness Level](https://img.shields.io/static/v1?label=Coolness%20Level&message=MAXIMUM&color=<blueviolet>)
                                                                                                     
 <!--
 **hippothebrave/hippothebrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

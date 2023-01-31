@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://img.shields.io/youtube/channel/views/UCrOEuSxOuBwRHzAz7oNs3zw?style=social
 <!--
 **hippothebrave/hippothebrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

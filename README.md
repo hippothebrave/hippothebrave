@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey everyone! I'm hippothebrave (she/her), but just call me Hippo. I'm a senior at Barnard College studying computer science and history. I'm new to GitHub, but excited to get started!
+Hey everyone! I'm Adi G (she/her), also known as hippothebrave. I'm a senior tech consultant at EY and a graduate of Columbia University (studying CS and history.) I'm getting back into GitHub - hope to see more of you soon! Look for my resume on my personal site (hippothebrave.github.io).
 
-Languages known: Python, Java, C, SQL, Javascript, HTML/CSS
+Languages known: Python, Java, SQL, C, C#, Javascript, HTML/CSS, VBA.
